@@ -1,3 +1,5 @@
+# Портфолио
+
 1. Плотникова Нина Сергеевна
 
 2. Студент курса Тестировщик ПО в Нетологии
@@ -8,4 +10,4 @@
 
 4. Хочу работать тестировщиком
 
-https://raw.githubusercontent.com/NinaQA62/Homework-3-part-3/main/Nina.jpg
+![Альтернативный текст](/[путь/к/изображению.jpg](https://raw.githubusercontent.com/NinaQA62/Homework-3-part-3/main/Nina.jpg)) 
