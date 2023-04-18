@@ -10,4 +10,4 @@
 
 4. Хочу работать тестировщиком
 
-![Альтернативный текст](/[путь/к/изображению.jpg](https://raw.githubusercontent.com/NinaQA62/Homework-3-part-3/main/Nina.jpg)) 
+![Нина Плотникова](https://raw.githubusercontent.com/NinaQA62/Homework-3-part-3/main/Nina.jpg)
