@@ -7,3 +7,5 @@
 4. Учусь чтобы получить новую современную профессию
 
 4. Хочу работать тестировщиком
+
+https://raw.githubusercontent.com/NinaQA62/Homework-3-part-3/main/Nina.jpg
